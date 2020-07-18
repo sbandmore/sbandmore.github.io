@@ -6700,7 +6700,8 @@ body {
 
 .server-info {
   margin-bottom: 150px;
-  position: relative; }
+  position: relative;
+  z-index: 20; }
 
 .inner {
   padding: 40px; }
